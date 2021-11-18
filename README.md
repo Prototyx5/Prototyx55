@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Prototyx55
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning JavaScript, PHP, TypeScript..
